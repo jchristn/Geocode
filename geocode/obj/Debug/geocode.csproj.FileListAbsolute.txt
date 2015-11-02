@@ -1,0 +1,6 @@
+c:\code\misc\geocode\geocode\bin\Debug\geocode.exe.config
+c:\code\misc\geocode\geocode\bin\Debug\geocode.exe
+c:\code\misc\geocode\geocode\bin\Debug\geocode.pdb
+c:\code\misc\geocode\geocode\obj\Debug\geocode.csprojResolveAssemblyReference.cache
+c:\code\misc\geocode\geocode\obj\Debug\geocode.exe
+c:\code\misc\geocode\geocode\obj\Debug\geocode.pdb
